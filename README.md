@@ -16,7 +16,8 @@ una tarea se devuelve inmediantamente con independencia de resultados(puedes dev
  
 ### callbacks
 una funcion que es pasada como argumento de otra funcion y que sera invocada segun sea necesario
-Una función de callback es una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción.(MDN)
+
+[Definicion y ejemplo en MDN](https://developer.mozilla.org/es/docs/Glossary/Callback_function)
 
 ### promesas
 funcion no bloqueante y asincrona la cual puede retornar un valor ahora, en el futuro o nunca
@@ -33,3 +34,16 @@ js es: asincrono y no bloqueante, con un bucle de eventos(concurrencia) implemen
 Una muy buena explicacion(en ingles)https://www.youtube.com/watch?v=8aGhZQkoFbQ
 A continuacion el recurso que utiliza en su charla:
 http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D``
+
+
+instalamos usando la terminal a http request, ya que no estamos corriendo el js desde el navegador
+
+npm i xmlhttprequest
+
+
+//info del http request: https://www.npmjs.com/package/xmlhttprequest
+
+https://www.w3schools.com/xml/ajax_xmlhttprequest_response.asp
+
+
+Códigos de estado de respuesta HTTP: https://developer.mozilla.org/es/docs/Web/HTTP/Status
