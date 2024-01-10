@@ -71,3 +71,17 @@ una promesa tiene 3 estados:
 
 npm i node-fetch
 
+
+### docuemntacion de la app que estamos consumiendo
+
+https://fakeapi.platzi.com/en/about/introduction/
+
+
+## aporte de un compa;ero sobre 'cors'
+¿Qué es un origen cruzado?++ . Un origen tiene dominio/protocolo/puerto, un origen cruzado denominado “++Cross Origin++” es la palabra que se utiliza para denominar el tipo de peticiones que se realizan a un dominio diferente del dominio de origen desde donde se realiza la petición. Así que si se coloca cors, indica que se permiten ciertas solicitudes predeterminadas de origen cruzado como GET y POST para salvaguardar y evitar manipulaciones maliciosas.
+
+ [En el enlace detallan más sobre el concepto de Cors](https://javascript.info/fetch-crossorigin)
+
+ [documentacion mdn acerac de cors](https://developer.mozilla.org/en-US/docs/Glossary/CORS)
+
+ si tienes dudas, [visita el curso basico de fundamentos de API-REST](linkamicurso)
