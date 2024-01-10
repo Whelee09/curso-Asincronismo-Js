@@ -35,3 +35,39 @@ Una muy buena explicacion(en ingles). [Link a explicacion en YT](https://www.you
 
 A continuacion el recurso que utiliza en su charla:
 [link al recurso ](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D``)
+
+
+#### como ejecutarlo desde la terminal?
+
+node [ruta del arhivo]
+
+##### una vez agregado al script en 'script' de esta manera:
+
+"callback": "node src/callback/challenge.js"
+
+y luego correr el comando :  npm run NombreDelTest(callback)
+
+
+### documentacion del xhttp
+
+https://developer.mozilla.org/es/docs/Web/API/XMLHttpRequest
+
+https://www.w3schools.com/xml/ajax_xmlhttprequest_response.asp
+
+
+## promesaaas
+
+definicion de mdn:   https://developer.mozilla.org/es/docs/Glossary/Promise
+
+como usarla: https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Using_promises
+
+una promesa tiene 3 estados:
+
++ pendiente
++ cumplido
++ rechazado
+
+/////para trabajr con fetch dentro de node instalmos nodefetch
+
+npm i node-fetch
+
