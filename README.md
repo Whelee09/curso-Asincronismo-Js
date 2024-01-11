@@ -85,3 +85,8 @@ https://fakeapi.platzi.com/en/about/introduction/
  [documentacion mdn acerac de cors](https://developer.mozilla.org/en-US/docs/Glossary/CORS)
 
  si tienes dudas, [visita el curso basico de fundamentos de API-REST](linkamicurso)
+
+## Async/Await
+
+[documentacion MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
+
