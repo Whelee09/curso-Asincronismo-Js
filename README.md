@@ -90,3 +90,10 @@ https://fakeapi.platzi.com/en/about/introduction/
 
 [documentacion MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
 
+
+## generator
+
+estructura que nos permite usar un iterador, pasuasr y continuar a nuestra conveniencia
+
+[documentacion MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
+
